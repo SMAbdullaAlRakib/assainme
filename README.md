@@ -1,3 +1,2 @@
 # assainment
- https://smabdullaalrakib.github.io/assainment/
- https://smabdullaalrakib.github.io/assainmen/
+https://smabdullaalrakib.github.io/assainme/
